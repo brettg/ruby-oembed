@@ -54,6 +54,7 @@
 - http://*amazon.*/gp/product/*
 - http://*amazon.*/gp/product/images/*
 - http://*amazon.*/o/ASIN/*
+- http://*boxofficebuz.com/video/*
 - http://*crackle.com/c/*
 - http://*dribbble.com/shots/*
 - http://*imgur.com/*
@@ -86,6 +87,7 @@
 - http://animal.discovery.com/videos/*
 - http://animoto.com/play/*
 - http://answers.polldaddy.com/poll/*
+- http://api.lovelive.tv/v1/*
 - http://api.minoto-video.com/publishers/*/videos/*
 - http://api.shopstyle.com/action/apiVisitRetailer*
 - http://app.sliderocket.com/*
@@ -96,6 +98,7 @@
 - http://bambuser.com/channel/*
 - http://bambuser.com/channel/*/broadcast/*
 - http://bambuser.com/v/*
+- http://bcove.me/*
 - http://behance.net/gallery/*
 - http://beta-sliderocket.com/*
 - http://beta.polstir.com/*/*
@@ -103,6 +106,7 @@
 - http://bigthink.com/series/*
 - http://blip.tv/*/*
 - http://boo.fm/b*
+- http://bop.fm/s/*/*
 - http://boston.com/*video*
 - http://boston.com/video*
 - http://brainshark.com/*/*
@@ -346,6 +350,7 @@
 - http://video.yahoo.com/network/*
 - http://video.yahoo.com/watch/*/*
 - http://videodetective.com/*/*
+- http://videodonor.com/video/*
 - http://videos.nymag.com/*
 - http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid*
 - http://vimeo.com/*
@@ -597,6 +602,7 @@
 - http://www.xiami.com/song/*
 - http://www.xkcd.com/*
 - http://www.xtranormal.com/watch/*
+- http://www.youtube.com/embed/*
 - http://www.zapiks.com/*
 - http://www.zeit.de/video/*
 - http://www.zero-inch.com/*
@@ -616,6 +622,7 @@
 - https://*.youtube.com/v/*
 - https://*vidyard.com/*
 - https://*youtube.com/watch*
+- https://api.lovelive.tv/v1/*
 - https://app.wistia.com/embed/medias/*
 - https://brainshark.com/*/*
 - https://brainsonic.com/*
@@ -675,3 +682,4 @@
 - https://www.streamio.com/api/v1/*
 - https://www.vimeo.com/*
 - https://www.vine.co/v/*
+- https://www.youtube.com/embed/*
